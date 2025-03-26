@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm **Hadiyah Arif**, a second-year Computer Science student at the University of Windsor. I'm passionate about programming, problem-solving, and exploring the world of software development.
 
-### 🌱 Currently Learning
-- Advanced C++ programming, database management, and web systems development.
+### 🧠 Currently Learning
+- Advanced C++ programming, database management, and web systems development (like HTML, CSS, REACT, JavaScript, CSS).
 - Deepening my understanding of operating systems and algorithms.
 
 ### 💻 Technical Skills
-- **Programming Languages:** C, Python, Java, Bash
+- **Programming Languages:** C, Python, Java, Bash, Assembly
 - **Tools & Technologies:** Windows, Linux, CrowdStrike, Hardware Troubleshooting
 - **Concepts:** Object-Oriented Programming, Data Structures
 
@@ -17,7 +17,7 @@ I'm **Hadiyah Arif**, a second-year Computer Science student at the University o
 - Home Office Safety Training
 
 ### 👯 Collaboration & Interests
-- Interested in beginner-friendly projects in Python or C.
+- Interested in anything that challenges me!
 - Exploring system interactions and software optimization.
 - Open to collaborations on projects that improve technical and coding skills.
 
