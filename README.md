@@ -2,9 +2,8 @@
 
 I'm **Hadiyah Arif**, a second-year Computer Science student at the University of Windsor. I'm passionate about programming, problem-solving, and exploring the world of software development.
 
-### 🧠 Currently Learning
-- Advanced C++ programming, database management (SQL), and web systems development (like HTML, CSS, REACT, JavaScript, CSS).
-- Deepening my understanding of operating systems and algorithms.
+### 🧠 Currently 
+- Studying for finals!
 
 ### 💻 Technical Skills
 - **Programming Languages:** C, Python, Java, Bash, Assembly, C++, HTML, CSS, REACT, JavaScript, CSS, SQL
@@ -12,9 +11,9 @@ I'm **Hadiyah Arif**, a second-year Computer Science student at the University o
 - **Concepts:** Object-Oriented Programming, Data Structures
 
 ### 🔖 Certifications
-- CPR and First Aid Certificate (valid until 2024)
-- WHMIS Training
-- Home Office Safety Training
+- CPR and First Aid Certificate
+- OOP in C++ Certificate (given by educative.io)
+  
 
 ### 👯 Collaboration & Interests
 - Interested in anything that challenges me!
@@ -32,7 +31,7 @@ I love understanding how systems interact under the hood and enjoy building thin
 
 ### Experience
 #### Jr. Support Analyst, Transform Shared Service Organization (June 2024 - August 2024)
-- Provided IT support, troubleshooting issues for various systems and applications.
+- Provided IT support and troubleshot issues for various systems and applications.
 - Assisted with CrowdStrike outbreak response and updated kernel/OS configurations.
 - Disassembled hard drives, organized barcodes, and set up systems for Windows 11 upgrades.
 
