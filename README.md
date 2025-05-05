@@ -3,7 +3,7 @@
 I'm **Hadiyah Arif**, a second-year Computer Science student at the University of Windsor. I'm passionate about programming, problem-solving, and exploring the world of software development.
 
 ### 🧠 Currently 
-- Studying for finals!
+- Working on Projects
 
 ### 💻 Technical Skills
 - **Programming Languages:** C, Python, Java, Bash, Assembly, C++, HTML, CSS, REACT, JavaScript, CSS, SQL
