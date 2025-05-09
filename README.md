@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm **Hadiyah Arif**, a second-year Computer Science student at the University of Windsor. I'm passionate about programming, problem-solving, and exploring the world of software development.
+I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor. I'm passionate about programming, problem-solving, and exploring the world of software development.
 
 ### 🧠 Currently 
 - Working on Projects
