@@ -4,10 +4,13 @@ I'm **Hadiyah Arif**, a second-year Computer Science student at the University o
 
 ### 🧠 Currently 
 - Working on Projects
+-   Specifically, working on making a non-profit organization's financial system automated
+- Completing a JavaScript course on Scrimba
+- In the summer semester, I have 1 course called Computer Networks
 
 ### 💻 Technical Skills
-- **Programming Languages:** C, Python, Java, Bash, Assembly, C++, HTML, CSS, REACT, JavaScript, CSS, SQL
-- **Tools & Technologies:** Windows, Linux, CrowdStrike, Hardware Troubleshooting
+- **Programming Languages:** C, Python, Java, Bash, Assembly, C++, HTML, CSS, REACT, JavaScript, SQL
+- **Tools & Technologies:** Windows, Linux, CrowdStrike, Hardware Troubleshooting, Git
 - **Concepts:** Object-Oriented Programming, Data Structures
 
 ### 🔖 Certifications
@@ -15,12 +18,12 @@ I'm **Hadiyah Arif**, a second-year Computer Science student at the University o
 - OOP in C++ Certificate (given by educative.io)
   
 
-### 👯 Collaboration & Interests
+### Collaboration & Interests
 - Interested in anything that challenges me!
 - Exploring system interactions and software optimization.
 - Open to collaborations on projects that improve technical and coding skills.
 
-### ⚡ Fun Fact
+###  Fun Fact
 I love understanding how systems interact under the hood and enjoy building things from scratch.
 
 ### 📫 How to Reach Me
