@@ -6,7 +6,6 @@ I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor. I
 - Working on Projects
 -   Specifically, working on making a non-profit organization's financial system automated
 - Completing a JavaScript course on Scrimba
-- In the summer semester, I have 1 course called Computer Networks
 
 ### Technical Skills
 - **Programming Languages:** C, Python, Java, Bash, Assembly, C++, HTML, CSS, REACT, JavaScript, SQL
@@ -32,17 +31,6 @@ I love understanding how systems interact under the hood and enjoy building thin
 
 ---
 
-### Experience
-#### Jr. Support Analyst, Transform Shared Service Organization (June 2024 - August 2024)
-- Provided IT support and troubleshot issues for various systems and applications.
-- Assisted with CrowdStrike outbreak response and updated kernel/OS configurations.
-- Disassembled hard drives, organized barcodes, and set up systems for Windows 11 upgrades.
 
-#### Medical Office Assistant, Dr. Moussa Optometry Professional Corporation (January 2022 - January 2024)
-- Managed patient records and appointment scheduling, improving office efficiency.
-- Assisted with technical troubleshooting for office IT equipment.
-
----
-
-Feel free to explore my profile to see my progress as I continue learning and growing as a developer. Thank you for stopping by! 
+Feel free to explore my profile to see my progress as I continue to learn and grow as a developer. Thank you for stopping by! 
 
