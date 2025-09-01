@@ -13,6 +13,7 @@ I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor. I
 
 ### Certifications
 - OOP in C++ Certificate (given by educative.io)
+- Intro to SQL (given by scrimba)
   
 
 ### Collaboration & Interests
