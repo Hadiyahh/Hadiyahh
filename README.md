@@ -4,7 +4,6 @@ I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor. I
 
 ### Currently 
 - Working on Projects
--   Specifically, working on making a non-profit organization's financial system automated
 
 ### Technical Skills
 - **Programming Languages:** C, Python, Java, Bash, Assembly, C++, HTML, CSS, REACT, JavaScript, SQL
