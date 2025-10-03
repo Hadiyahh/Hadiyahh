@@ -31,11 +31,6 @@ I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor. I
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-
-### Certifications
-- OOP in C++ Certificate (given by educative.io)
-- Intro to SQL (given by Scrimba)
-
 ### Currently, what's happening
 
 Sterling Cyber Security Workshop (4 months)
@@ -43,6 +38,10 @@ Sterling Cyber Security Workshop (4 months)
   
 JLR UWINDSOR Hackathon (4 months) 
 - Collaborating on an AI/ML solution
+
+### Certifications
+- OOP in C++ Certificate (given by educative.io)
+- Intro to SQL (given by Scrimba)
 
 ### Fun Fact
 - AI Club President (University of Windsor - Present
