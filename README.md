@@ -44,7 +44,8 @@ JLR UWINDSOR Hackathon (4 months)
 - Intro to SQL (given by Scrimba)
 
 ### Fun Fact
-- AI Club President (University of Windsor - Present
+- AI Club President (University of Windsor) - Present
+- Won third place at a NASA Hackathon - October 2025
 
 ###  How to Reach Me
 - Email: [arifh@uwindsor.ca](mailto:arifh@uwindsor.ca)
