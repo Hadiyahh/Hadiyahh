@@ -21,6 +21,7 @@ I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor. I
 - Databases: 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 - Machine Learning / Data Science: 
   ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -39,6 +40,12 @@ Sterling Cyber Security Workshop (4 months)
 JLR UWINDSOR Hackathon (4 months) 
 - Collaborating on an AI/ML solution
 
+Working on automating the finance system for a national non-profit organization
+- Developing a full-stack web application to streamline budget tracking, approval workflows, and financial reporting — including database schema design, backend API, and frontend dashboard.
+
+Working on a bookstore project (1 month left)
+- Following Agile principles — using Scrum sprints and XP practices for iterative delivery.
+
 ### Certifications
 - OOP in C++ Certificate (given by educative.io)
 - Intro to SQL (given by Scrimba)
@@ -46,6 +53,7 @@ JLR UWINDSOR Hackathon (4 months)
 ### Fun Fact
 - AI Club President (University of Windsor) - Present
 - Won third place at a NASA Hackathon - October 2025
+    - Project is nominated on a global scale (global nominee)
 
 ###  How to Reach Me
 - Email: [arifh@uwindsor.ca](mailto:arifh@uwindsor.ca)
