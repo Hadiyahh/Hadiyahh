@@ -1,8 +1,8 @@
-# 👋 Hi, I'm **Hadiyah Arif**
+# 👋 Hey!
 
-I'm a Computer Science student at the University of Windsor with a strong focus on **software engineering, cybersecurity and AI/ML. **. I enjoy working across the entire stack — from low-level systems and backend development to data-driven applications, analysis, and secure communication protocols.
+I'm **Hadiyah Arif** a Computer Science student at the University of Windsor with a strong focus on **software engineering, cybersecurity and AI/ML.** I enjoy working across the entire stack — from low-level systems and backend development to data-driven applications, analysis, and secure communication protocols.
 
----
+
 
 ## Technical Skills
 
@@ -31,47 +31,31 @@ I'm a Computer Science student at the University of Windsor with a strong focus 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- Packet analysis (DNS, HTTP, TCP/UDP)
-- DFIR forensic workflows
-- Ethical hacking fundamentals
-- Secure quantum communication (BB84)
-
 ### AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-- ML model development
-- Agentic AI pipelines
-- NASA exoplanet dataset analysis
-- Data preprocessing & evaluation
-
 ### Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
-
-- Quantum circuit design (X, H, CX)
-- QBER calculation & noise modelling
-- SamplerV2 & EstimatorV2
-- BB84 protocol simulations
-- Eavesdropping attack modelling
 
 ---
 
 ## What I'm Working On
 
-### 🔐 Capstone Project — Agentic AI for Malware Analysis (Assemblyline)
-Building an autonomous malware-analysis pipeline using Assemblyline with AI reasoning and cybersecurity automation.
+🔐 Capstone Project — Agentic AI for Malware Analysis (Assemblyline)
+- Building an autonomous malware-analysis pipeline using Assemblyline with AI reasoning and cybersecurity automation.
 
-### 🚗 Jaguar Land Rover x UWindsor Hackathon (4 months)
-AI/ML solution for DRAMSys memory subsystem analysis, CPU/GPU trace insights, and Pareto optimization.
+🚗 Jaguar Land Rover x UWindsor Hackathon (4 months)
+- AI/ML solution for DRAMSys memory subsystem analysis, CPU/GPU trace insights, and Pareto optimization.
 
-### 💸 National Non-Profit Finance Automation (YM)
-Building a full-stack web application for budget tracking, approvals, data visualization, and workflow automation.
+💸 National Non-Profit Finance Automation (YM)
+- Building a full-stack web application for budget tracking, approvals, data visualization, and workflow automation.
 
-### 📚 Agile Bookstore Management System
-C#/React/SQL project built through Scrum sprints & XP development practices.
+📚 Agile Bookstore Management System
+- C#/React/SQL project built through Scrum sprints & XP development practices.
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 - 🥇 **1st Place - IBM Qiskit Fall Fest Hackathon (UWindsor) (2025)**
 - 🥉 **3rd Place — NASA Space Apps Windsor**
@@ -83,7 +67,7 @@ C#/React/SQL project built through Scrum sprints & XP development practices.
 - Intro to SQL — Scrimba  
 
 ---
-🎯 What I’m Looking For
+### 🎯 What I’m Looking For
 
 Actively open to software engineering, cybersecurity, AI/ML, or full-stack development roles.
 I enjoy learning fast, solving complex problems, and working in environments where I can build and ship.
