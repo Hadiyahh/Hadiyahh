@@ -44,14 +44,6 @@ I'm **Hadiyah Arif** a Computer Science student at the University of Windsor wit
 🔐 Capstone Project — Agentic AI for Malware Analysis (Assemblyline)
 - Building an autonomous malware-analysis pipeline using Assemblyline with AI reasoning and cybersecurity automation.
 
-🚗 Jaguar Land Rover x UWindsor Hackathon (4 months)
-- AI/ML solution for DRAMSys memory subsystem analysis, CPU/GPU trace insights, and Pareto optimization.
-
-💸 National Non-Profit Finance Automation (YM)
-- Building a full-stack web application for budget tracking, approvals, data visualization, and workflow automation.
-
-📚 Agile Bookstore Management System
-- C#/React/SQL project built through Scrum sprints & XP development practices.
 
 ---
 
