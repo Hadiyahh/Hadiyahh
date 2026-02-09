@@ -1,4 +1,4 @@
-# 👋 Hey!
+# Hey!
 
 I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor with a strong focus on **software engineering, cybersecurity and AI/ML.** I enjoy working across the entire stack — from low-level systems and backend development to data-driven applications, analysis, and secure communication protocols.
 
@@ -44,37 +44,40 @@ I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor wi
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
-### 🏥 AI-Powered Healthcare App (Glendor – AI Intern)
+### AI-Powered Healthcare App (Glendor – AI Intern)
 - Researching and benchmarking open-source AI models for medical text and imaging tasks
 - Evaluating performance, latency, memory usage, and on-device feasibility
 - Supporting development of a privacy-first mobile healthcare application
 
-### 🔐 Capstone Project — Agentic AI for Malware Analysis
+### Capstone Project — Agentic AI for Malware Analysis
 - Building an autonomous malware analysis pipeline using **Assemblyline**
 - Integrating AI reasoning with cybersecurity automation workflows
 
-### 📱 Mobile Application Development
+### Mobile Application Development
 - Developing Android applications using **Android Studio, Java, and XML**
 - Focus on mobile UI/UX and backend integration
 
-### 🤖 Artificial Intelligence Coursework & Projects
+### Artificial Intelligence Coursework & Projects
 - Implementing and analyzing core AI algorithms
 - Covering search, heuristics, machine learning foundations, and intelligent agents
 
-### 🧠 AI Club President — University of Windsor
-- Leading hackathons, workshops, projects and applied AI research groups
+### AI Club President — University of Windsor
+- Leading hackathons, workshops, projects, and applied AI research groups
 - Organizing hands-on learning experiences for students
 
-### 🛡️ Cybersecurity Teaching Assistant
+### Cybersecurity Teaching Assistant
 - Teaching networking and security concepts
 - Running labs and CTF-style exercises using Wireshark, Kali Linux, and virtual environments
 ---
 
-### 🏆 Achievements
-
+### Achievements
+- 🥇 **1st Place - WinHacks(2026) Finacial Literacy Category**
+- https://devpost.com/software/stocrates
 - 🥇 **1st Place - IBM Qiskit Fall Fest Hackathon (UWindsor)**
+  - Built a BB84 quantum key distribution simulator using Qiskit
+  - Implemented depolarizing noise models and QBER computation
 - 🥉 **3rd Place — NASA Space Apps Windsor**
   -  Global Nominee (International Round)
 - 🚗 **Completed Jaguar Land Rover Automotive AI Innovation Challenge (3-Month Hackathon)**
@@ -85,15 +88,9 @@ I'm **Hadiyah Arif**, a Computer Science student at the University of Windsor wi
 ### Certifications
 - OOP in C++ — Educative.io  
 - Intro to SQL — Scrimba  
-
----
-### 🎯 What I’m Looking For
-
-Actively open to software engineering, cybersecurity, AI/ML, or full-stack development roles.
-I enjoy learning fast, solving complex problems, and working in environments where I can build and ship.
-
+  
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - Email: arifh@uwindsor.ca
 - LinkedIn: https://www.linkedin.com/in/hadiyaharif10
